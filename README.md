@@ -1,5 +1,24 @@
 # 💫 About Me:
-Hello! I'm Krishna Kanta , a passionate and highly motivated Engineering Student <br>with a strong foundation in Information technology principles. <br>My journey in technology has been driven by a curiosity to understand how things <br>work and a desire to create impactful solutions. I specialize in basic web python, <br>with expertise in modern technologies like seaborn an flask with pandas and other languages like Html, Css, Js, and Sql <br>while actively contributing to a dynamic team environment and learning from experienced professionals. <br>I thrive in collaborative environments, constantly seeking to learn new technologies and improve my skills. <br>When I'm not coding, you can find me exploring new data trends or contributing to open-source projects.<br>Data Analyst Intern at Cognifyz Technologies and currently at  Syntecxhub 
+Hello! I'm Krishna Kanta, a passionate Engineering Student specializing in Information Science & Engineering. My journey is driven by a deep curiosity for how systems work and a commitment to building impactful, decentralized solutions.
+
+🧪 Currently Exploring: Advanced cryptography and the integration of Federated Learning with Blockchain & Zero-Knowledge Proofs (ZKP).
+
+📊 Data Expertise: Proficient in data manipulation and visualization using Python (Pandas, NumPy, Seaborn), SQL, and Power BI.
+
+🌐 Web Development: Crafting responsive interfaces with HTML5, CSS3 (Glassmorphism/Dark UI), and vanilla JavaScript, alongside Flask for backend logic.
+
+💼 Professional Experience: * Former Data Analyst Intern at Cognifyz Technologies & Future Interns.
+
+Currently contributing as a Data Analyst Intern at Syntechub.
+
+🌱 Learning Philosphy: I thrive in collaborative environments, constantly seeking to bridge the gap between complex data trends and user-centric web applications.
+
+Category,Technologies
+Languages,"Python, SQL, JavaScript, HTML, CSS"
+Data Science,"Pandas, NumPy, Seaborn, Matplotlib"
+Web Frameworks,"Flask, React.js, Node.js"
+Specialized,"Blockchain, Federated Learning, ZKP"
+Tools,"Power BI, Excel, Git/GitHub, VS Code"
 
 
 ## 🌐 Socials:
